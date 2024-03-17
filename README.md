@@ -12,8 +12,10 @@ WeatherApp is a simple web application that allows users to check the current we
 </ul>
 
 <h2>Technologies Used</h2>
+<ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
   <li>OpenWeather API</li>
+</ul>
 
